@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dustin Turner</h1>
-<h3 align="center">A lifelong learner from Nashville, TN</h3>
+[![Header](https://github.com/dturner23/dturner23/blob/main/banner.png?raw=true "Header")](https://dustinbturner.com)
+
+
+<h3 align="center">I'm a lifelong learner from Nashville, TN</h3>
 
 - After spending nearly 10 years in the Army, I transitioned into a role working with strategic IT initiatives. I quickly fell in love with understanding as much about the wide range of topics as I could.
 
