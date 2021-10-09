@@ -15,8 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/d_b_turn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_b_turn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dustin-turner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dustin-turner" height="30" width="40" /></a>
+<a href="https://twitter.com/DustinBTurner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_b_turn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
