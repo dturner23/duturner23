@@ -3,15 +3,11 @@
 
 <h3 align="center">I'm a lifelong learner from Nashville, TN</h3>
 
-- After spending nearly 10 years in the Army, I transitioned into a role working with strategic IT initiatives. I quickly fell in love with understanding as much about the wide range of topics as I could.
+- After spending nearly 10 years in the Army, I transitioned into a role working with clients on strategic IT initiatives. I was exposed to everything from overall IT business strategy, data management and governance, customer experience, and more. I enjoyed it all, but was looking to get more involved with hands on IT projects.
 
-- I'm now working as an IT Project Manager and learning to code through the Coding Dojo bootcamp. The process of writing code, seeing immediate feedback, and building a foundation to develop software products is proving to be extremely rewarding.
+- 🌱 I’m currently learning HTML, CSS, JS, and plan to move to the MERN stack after I have a good grasp on the front-end. 
 
-- 🌱 I’m currently learning **HTML / CSS /JavaScript / Python**
-
-- 📝 I regularly write articles on [dustinbturner.com](dustinbturner.com)
-
-- Feel free to reach out if there is anything I can do to help you!
+- 📝 I'm working as a freelance writer and Wordpress developer as I expand my development skills. I'm regularly writing articles on [dustinbturner.com](dustinbturner.com) for a wide range of topics. 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
