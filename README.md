@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JS, and plan to move to the MERN stack after I have a good grasp on the front-end. 
 
-- 📝 I'm working as a freelance writer and Wordpress developer as I expand my development skills. I'm regularly writing articles on [dustinbturner.com](dustinbturner.com) for a wide range of topics. 
+- 📝 I'm working as a freelance writer and Wordpress developer as I expand my development skills. I'm regularly writing articles on [dustinbturner.com](https://dustinbturner.com) for a wide range of topics. 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
