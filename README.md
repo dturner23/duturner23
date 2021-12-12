@@ -1,4 +1,4 @@
-[![Header](https://github.com/dturner23/dturner23/blob/main/banner.png?raw=true "Header")]
+![Header](https://github.com/dturner23/dturner23/blob/main/banner.png?raw=true "Header")
 
 
 <h3 align="center">I'm a lifelong learner from Nashville, TN</h3>
